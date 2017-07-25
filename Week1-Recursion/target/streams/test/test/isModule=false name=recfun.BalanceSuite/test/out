@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mBalanceSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance: '(if (zero? x) max (/ 1 x))' is balanced[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance: 'I told him ...' is balanced[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance: ':-)' is unbalanced[0m[0m
+[0m[[0minfo[0m] [0m[32m- balance: counting is not enough[0m[0m
+[0m[[0minfo[0m] [0m[32m- simple balance: ()[0m[0m
+[0m[[0minfo[0m] [0m[32m- too many open: (()[0m[0m
+[0m[[0minfo[0m] [0m[32m- too many closed: ())[0m[0m
+[0m[[0minfo[0m] [0m[32m- single open: ([0m[0m
+[0m[[0minfo[0m] [0m[32m- single closed: )[0m[0m
+[0m[[0minfo[0m] [0m[32m- wrapped: ((blah) + (blah))[0m[0m
+[0m[[0minfo[0m] [0m[32m- empty: [][0m[0m
+[0m[[0minfo[0m] [0m[32m- random characters: 123456abc[0m[0m
